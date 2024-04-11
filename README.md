@@ -1,15 +1,22 @@
-# NM_AJINARV_FRIDAYBATCH_FSWD_PROJECT1
-
-Name: AJINA RV
+# NM_FRIDAYBATCH_FSWD_PROJECT
 
 
-ID: au960221104012
+Project implemented by: 
 
 
-College Name: Arunachala College of Engineering for Women
+Name:
 
 
-Username: student
+ID:
 
 
-Password: 12345
+College name:
+
+
+Login credentials: 
+
+username: root
+
+
+Password: root
+
