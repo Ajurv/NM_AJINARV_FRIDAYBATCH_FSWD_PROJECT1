@@ -4,19 +4,19 @@
 Project implemented by: 
 
 
-Name:
+Name: AJINA RV
 
 
-ID:
+ID: au960221104012
 
 
-College name:
+College name: Arunachala College of Engineering for Women
 
 
 Login credentials: 
 
-username: root
+username: student
 
 
-Password: root
+Password: 12345
 
